@@ -62,3 +62,27 @@ button{
 .operator{
     color: #6dee0a;
 }
+
+.footer{
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 15px;
+    border-top: 1px solid #717377;
+}
+
+.footer p{
+    color: #ffffff;
+    font-size: 14px;
+}
+
+.footer a{
+    color: #fb7c14;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.footer a:hover{
+    color: #6dee0a;
+    text-decoration: underline;
+}
